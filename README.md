@@ -29,13 +29,11 @@ sau 2022.
 Configurare bază de date
 1. Deschide aplicația SQL Server Management Studio (SSMS).
 2. Creează o bază de date nouă, cu un nume sugestiv, de exemplu GestiuneRestaurant.
-3. Click dreapta pe baza de date creată și selectează opțiunea New Query.
-4. Încarcă fișierul BazaDate_Restaurant.sql din folderul database/ și rulează întregul script.
+3. Încarcă fișierul BazaDate_Restaurant.sql din folderul database/ și rulează întregul script.
 
 Exemplu de configurare App.config pentru conexiunea la SQL Server
-<connectionStrings>
- <add name="conexiuneGestiuneRestaurant"
- connectionString="Data Source=FLORIAN-PC\\SQLEXPRESS;Initial
-Catalog=GestiuneRestaurant;Integrated Security=True"
- providerName="System.Data.SqlClient" />
-</connectionStrings>
+  <connectionStrings>
+    <add name="defaultConnection"
+         connectionString="Data Source=NUME_CALCULATOR\\INSTANȚĂ_SQL;Initial Catalog=NUME_BAZĂ_DATE;Integrated Security=True"
+         providerName="System.Data.SqlClient" />
+  </connectionStrings>
