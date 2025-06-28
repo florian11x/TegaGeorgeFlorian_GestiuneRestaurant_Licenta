@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32A41B75-36DA-452C-A11A-DE7DC5AB1F9C}|TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta.csproj|C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\tegageorgeflorian_gestiunerestaurant_licenta\\model\\selectaresubcategoriebauturi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A41B75-36DA-452C-A11A-DE7DC5AB1F9C}|TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta.csproj|solutionrelative:tegageorgeflorian_gestiunerestaurant_licenta\\model\\selectaresubcategoriebauturi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A41B75-36DA-452C-A11A-DE7DC5AB1F9C}|TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta.csproj|C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\tegageorgeflorian_gestiunerestaurant_licenta\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A41B75-36DA-452C-A11A-DE7DC5AB1F9C}|TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta.csproj|solutionrelative:tegageorgeflorian_gestiunerestaurant_licenta\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A41B75-36DA-452C-A11A-DE7DC5AB1F9C}|TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta.csproj|C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\tegageorgeflorian_gestiunerestaurant_licenta\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32A41B75-36DA-452C-A11A-DE7DC5AB1F9C}|TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta.csproj|solutionrelative:tegageorgeflorian_gestiunerestaurant_licenta\\model\\frmpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A41B75-36DA-452C-A11A-DE7DC5AB1F9C}|TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta.csproj|C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\tegageorgeflorian_gestiunerestaurant_licenta\\model\\selectaresubcategoriebauturi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32A41B75-36DA-452C-A11A-DE7DC5AB1F9C}|TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta.csproj|solutionrelative:tegageorgeflorian_gestiunerestaurant_licenta\\model\\selectaresubcategoriebauturi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectareSubcategorieBauturi.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\SelectareSubcategorieBauturi.cs",
+              "RelativeDocumentMoniker": "TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\SelectareSubcategorieBauturi.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\SelectareSubcategorieBauturi.cs",
+              "RelativeToolTip": "TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\SelectareSubcategorieBauturi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T21:33:07.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectareSubcategorieBauturi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\SelectareSubcategorieBauturi.cs",
+              "RelativeDocumentMoniker": "TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\SelectareSubcategorieBauturi.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\SelectareSubcategorieBauturi.cs [Design]",
+              "RelativeToolTip": "TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\SelectareSubcategorieBauturi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T21:28:00.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPOS.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\frmPOS.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\frmPOS.cs",
+              "RelativeToolTip": "TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\frmPOS.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T21:13:38.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPOS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\frmPOS.cs",
+              "RelativeDocumentMoniker": "TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\frmPOS.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\frmPOS.cs [Design]",
+              "RelativeToolTip": "TegaGeorgeFlorian_GestiuneRestaurant_Licenta\\Model\\frmPOS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T21:12:38.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
