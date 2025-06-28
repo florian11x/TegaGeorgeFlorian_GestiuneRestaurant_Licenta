@@ -26,3 +26,4 @@ Poți face acest lucru astfel:
 2. Creează o bază de date nouă (ex: `GestiuneRestaurant`).
 3. Click dreapta pe baza de date → New Query.
 4. Încarcă și rulează fișierul `BazaDate_Restaurant.sql`.
+După import, actualizează fișierul App.config din proiectul C# cu string-ul de conexiune către instanța ta SQL Server.

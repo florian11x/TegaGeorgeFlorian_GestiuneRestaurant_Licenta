@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.sqlite
+*.db
+*.ide
+*.shm
+*.wal
+*.vscode/
+
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# Other
+*.tmp
+*.bak
+*.backup.json
