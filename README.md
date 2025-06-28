@@ -11,7 +11,7 @@ Descrierea livrabilelor proiectului
 - database/ – fișierul BazaDate_Restaurant.sql necesar pentru generarea bazei de date în SQL Server
 - README.md – prezentare directă pentru GitHub
 - .gitignore – exclude fișierele generate automat (bin/, obj/, .vs/)
-- 
+
 Structura aplicației
 ├── View/ → Formulare WinForms (POS, Login, Bucătărie, etc.)
 ├── Model/ → Clase pentru entități (Comandă, Produs, etc.)
